@@ -1,0 +1,24 @@
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\kkotl\OneDrive\Рабочий стол\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+D:\123123\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+D:\qwertyggg\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
